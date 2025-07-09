@@ -93,7 +93,7 @@ The system persists data using two JSON files:
 
 In this demo, the admin logs in and adds multiple MCQs to the question bank.
 
-[▶️ Watch Admin Demo](PASTE_YOUR_ADMIN_VIDEO_LINK_HERE)
+[▶️ Watch Admin Demo](https://github.com/abhishek11das/quiz-management-system-java/blob/9591bde507c66cb46e90f12b9f14fed579e83140/Admin.mp4)
 
 ---
 
