@@ -89,15 +89,8 @@ The system persists data using two JSON files:
 
 ## 📽️ Video Demonstration
 
-### 🔐 Admin Functionality: Login & Add Questions
-
-In this demo, the admin logs in and adds multiple MCQs to the question bank.
-https://github.com/user-attachments/assets/6d569cc3-fefe-47f4-96ec-e39198f6cdd4
-
----
+### 🔐 Admin Functionality: Login & Add Questions:
+https://github.com/user-attachments/assets/921d5383-04b4-47c6-ae1b-26aa7cb67ccc
 
 ### 🧑‍🎓 Student Functionality: Login & Take Quiz
-
-This demo shows a student logging in, taking a quiz, and getting the result based on performance.
-
-[▶️ Watch Student Demo](PASTE_YOUR_STUDENT_VIDEO_LINK_HERE)
+https://github.com/user-attachments/assets/90b2503d-ccb4-42cb-9462-efd5334277dd
