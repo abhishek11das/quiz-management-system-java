@@ -93,4 +93,4 @@ The system persists data using two JSON files:
 https://github.com/user-attachments/assets/921d5383-04b4-47c6-ae1b-26aa7cb67ccc
 
 ### 🧑‍🎓 Student Functionality: Login & Take Quiz
-https://github.com/user-attachments/assets/90b2503d-ccb4-42cb-9462-efd5334277dd
+https://github.com/user-attachments/assets/052714bb-f481-4ace-9962-a60eb7cb958c
