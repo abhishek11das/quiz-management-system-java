@@ -87,3 +87,20 @@ The system persists data using two JSON files:
 | 5 - 7       | Good. You have got [score] out of 10         |
 | 3 - 4       | Very poor! You have got [score] out of 10    |
 | 0 - 2       | Very sorry, you are failed. Got [score]/10   |
+
+## 📽️ Video Demonstration
+
+### 🔐 Admin Functionality: Login & Add Questions
+
+In this demo, the admin logs in and adds multiple MCQs to the question bank.
+
+[▶️ Watch Admin Demo](PASTE_YOUR_ADMIN_VIDEO_LINK_HERE)
+
+---
+
+### 🧑‍🎓 Student Functionality: Login & Take Quiz
+
+This demo shows a student logging in, taking a quiz, and getting the result based on performance.
+
+[▶️ Watch Student Demo](PASTE_YOUR_STUDENT_VIDEO_LINK_HERE)
+
