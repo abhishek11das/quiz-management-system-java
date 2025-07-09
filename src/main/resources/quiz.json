@@ -1,0 +1,98 @@
+[
+  {
+    "answerkey": 1,
+    "option 3": "Sanity Testing",
+    "option 4": "Regression Testing",
+    "question": "Which testing is done by developer?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Gorila Testing",
+    "option 4": "Benchmark Testing",
+    "question": "Which is functional testing?",
+    "option 1": "Load Testing",
+    "option 2": "Security Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Peer review",
+    "option 4": "Inspection",
+    "question": "Which is not static testing?",
+    "option 1": "Walkthrough",
+    "option 2": "Exploratory Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Failure",
+    "option 4": "Defect",
+    "question": "A deviation from of actual result from the expected result to the end user is called?",
+    "option 1": "Fault",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Comparing actual results to expected results",
+    "option 4": "Analyzing the cause of failure",
+    "question": "Which of the following is a typical test objective?",
+    "option 1": "Preventing defects",
+    "option 2": "Repairing defects"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "The error",
+    "option 4": "The defect",
+    "question": "Suppose, you visit the HSC result publishing site to see the result of your younger brother\\sister. But you see that site is down. What is the reason?",
+    "option 1": "The fault",
+    "option 2": "The failure"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Fault",
+    "option 4": "Failure",
+    "question": "What is missing requirement?",
+    "option 1": "Error",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "While doing automation",
+    "option 4": "Test procedure planning",
+    "question": "Test data planning is included when?",
+    "option 1": "Equivalent partitioning",
+    "option 2": "Boundary value analysis"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Writing Testcase",
+    "option 4": "Writing user manual",
+    "question": "Which of the following is an example of a task that can be carried out as part of the test process?",
+    "option 1": "Requirement Analysis",
+    "option 2": "Assign task to QA team"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Re-Test",
+    "option 4": "Regression Test",
+    "question": "Developer fixed an issue and told you to test the feature. What is the testing type?",
+    "option 1": "Feature Test",
+    "option 2": "Integration Test"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Both",
+    "option 4": "None of the above",
+    "question": "Dynamic testing is mainly-",
+    "option 1": "Validation technique",
+    "option 2": "Verification technique"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Alpha testing",
+    "option 4": "Beta testing",
+    "question": "Acceptance testing is also known as-",
+    "option 1": "Grey box testing",
+    "option 2": "White box testing"
+  }
+]
